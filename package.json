@@ -1,0 +1,10 @@
+{
+  "name": "tiktok-ki-server",
+  "version": "1.0.0",
+  "description": "Server für TikTok KI-Videos",
+  "main": "server.py",
+  "scripts": {
+    "start": "python server.py"
+  },
+  "dependencies": {}
+}
